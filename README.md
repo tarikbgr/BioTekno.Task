@@ -8,3 +8,4 @@ Used technologies
 - AutoMapper
 - SeriLog
 - FluentValidation
+- MailSenderBackgroundService
